@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TraveLia.com</string>
+    <string-array name="AsalTujuan">
+        <item> "Indramayu - Bandung"</item>
+        <item>"Indramayu - Jakarta"</item>
+        <item>"Bandung - Indramayu"</item>
+        <item>"Jakarta - Indramayu"</item>
+        <item>"Jakarta - Bandung"</item>
+        <item>"Bandung - Jakarta"</item>
+    </string-array>
+
+    <string-array name="transportasi">
+        <item>"Pesawat Terbang"</item>
+        <item>"Taksi"</item>
+        <item>"Bus"</item>
+        <item>"Mobil Rental Pribadi"</item>
+        <item>"Kereta Api"</item>
+    </string-array>
+</resources>
